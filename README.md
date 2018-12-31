@@ -28,3 +28,8 @@ websocketpp
 
 
 websocket.io.cpp
+
+
+## 服务
+可以定制微信PC端大部分需求服务，其中包括机器人，收款等。可以定制支付平台，转账模式等，支付宝微信都可以。联系邮箱：zhaojunlike@qq.com
+
